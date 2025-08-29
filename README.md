@@ -6,6 +6,8 @@
 ## TL;DR
 **Pos2Distill** is a novel position to position knowledge distillation framework, transferring knowledge from advantageous positions to rectify responses at unfavorable ones, therefore mitigating position bias naturally.
 
+## Usage
+Updating soon ...
 
 ## Citation
 If you feel this project is helpful, please consider cite our report :blush:
